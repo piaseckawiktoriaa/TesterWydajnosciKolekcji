@@ -73,3 +73,10 @@ Użytkownik może konfigurować testy za pomocą interfejsu CLI (konsola), wybie
 ## 📁 Struktura projektu
 
 Projekt został zrealizowany jako pojedynczy plik `.java`, zgodnie z wymaganiami zadania.
+
+---
+
+## 📄 Przykładowe wyniki
+
+W repozytorium znajduje się przykładowy plik z wynikami: `sample_results.csv`
+
