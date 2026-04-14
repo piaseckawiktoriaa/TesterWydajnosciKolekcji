@@ -1,0 +1,8 @@
+Typ danych;Kolekcja;Liczba elementów;Czas dodawania (ms);Czas wyszukiwania (ms);Czas usuwania (ms)
+OBIEKTY_KLASY_MYCOLOR;TREE_SET;10000;0,1015;0,0073;0,0027
+Typ danych;Kolekcja;Liczba elementów;Czas dodawania (ms);Czas wyszukiwania (ms);Czas usuwania (ms)
+INTEGER;ARRAY_LIST;100;0,0055;0,0153;0,0243
+Typ danych;Kolekcja;Liczba elementów;Czas dodawania (ms);Czas wyszukiwania (ms);Czas usuwania (ms)
+DOUBLE;LINKED_LIST;500;0,0139;0,0297;0,0231
+Typ danych;Kolekcja;Liczba elementów;Czas dodawania (ms);Czas wyszukiwania (ms);Czas usuwania (ms)
+OBIEKTY_KLASY_PERSON;HASH_SET;10000;0,1041;0,0073;0,0095
